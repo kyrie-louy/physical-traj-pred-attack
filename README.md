@@ -80,3 +80,27 @@ This is an implementation of the paper:
 - Run the evaluation script
 
   - `bash ros_convert/eval_realworld.sh`
+
+
+## Bibtex
+If this work is helpful for your research, please consider citing the following BibTex entry:
+
+```
+@inproceedings {299758,
+author = {Yang Lou and Yi Zhu and Qun Song and Rui Tan and Chunming Qiao and Wei-Bin Lee and Jianping Wang},
+title = {A First {Physical-World} Trajectory Prediction Attack via {LiDAR-induced} Deceptions in Autonomous Driving},
+booktitle = {33rd USENIX Security Symposium (USENIX Security 24)},
+year = {2024},
+isbn = {978-1-939133-44-1},
+address = {Philadelphia, PA},
+pages = {6291--6308},
+url = {https://www.usenix.org/conference/usenixsecurity24/presentation/lou},
+publisher = {USENIX Association},
+month = aug
+}
+```
+
+
+## Acknowledgements
+
+Many thanks to the authors of ["Can we use arbitrary objects to attack lidar perception in autonomous driving?"](https://dl.acm.org/doi/abs/10.1145/3460120.3485377) for providing the LiDAR attack implementation.
