@@ -34,7 +34,7 @@ This is an implementation of the paper:
 
 ### Data preparation
 
-- Download the processed example data of real-world scenes from [OneDrive](https://portland-my.sharepoint.com/:f:/g/personal/yanglou3-c_my_cityu_edu_hk/EqnZCEX3h6dDk61U9_S1GPcBrUo9KDo9ml7U__fhzFAXWw?e=g7mHUC)/[Dropbox](https://www.dropbox.com/scl/fo/6uxty2rufv2rhbrfvhijc/AMtLaPWozC_7dj8YFSLMgbE?rlkey=06iqmbs3vc31qwc948n67nwxh&st=elpvh7pu&dl=0)
+- Download the processed example data of real-world scenes from [OneDrive](https://portland-my.sharepoint.com/:f:/g/personal/yanglou3-c_my_cityu_edu_hk/EihNY4PR4yVJqI12uHc20tIB7a1Qo1Hyqurn3yCp48D3nA?e=Xgzyc4)/[Dropbox](https://www.dropbox.com/scl/fo/6uxty2rufv2rhbrfvhijc/AMtLaPWozC_7dj8YFSLMgbE?rlkey=06iqmbs3vc31qwc948n67nwxh&st=elpvh7pu&dl=0)
 
   - please email me (yanglou3-c@my.cityu.edu.hk) if you can't download the data.
 
@@ -86,17 +86,12 @@ This is an implementation of the paper:
 If this work is helpful for your research, please consider citing the following BibTex entry:
 
 ```
-@inproceedings {299758,
-author = {Yang Lou and Yi Zhu and Qun Song and Rui Tan and Chunming Qiao and Wei-Bin Lee and Jianping Wang},
-title = {A First {Physical-World} Trajectory Prediction Attack via {LiDAR-induced} Deceptions in Autonomous Driving},
-booktitle = {33rd USENIX Security Symposium (USENIX Security 24)},
-year = {2024},
-isbn = {978-1-939133-44-1},
-address = {Philadelphia, PA},
-pages = {6291--6308},
-url = {https://www.usenix.org/conference/usenixsecurity24/presentation/lou},
-publisher = {USENIX Association},
-month = aug
+@inproceedings{lou2024first,
+  title={A First $\{$Physical-World$\}$ Trajectory Prediction Attack via $\{$LiDAR-induced$\}$ Deceptions in Autonomous Driving},
+  author={Lou, Yang and Zhu, Yi and Song, Qun and Tan, Rui and Qiao, Chunming and Lee, Wei-Bin and Wang, Jianping},
+  booktitle={33rd USENIX Security Symposium (USENIX Security 24)},
+  pages={6291--6308},
+  year={2024}
 }
 ```
 

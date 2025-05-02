@@ -8,14 +8,15 @@ experiments/nuScenes/models
 experiments/nuScenes/v1.0
 experiments/nuScenes/attack
 experiments/processed
+experiments/pedestrians/
 
-*.pdf
-*.txt
-*.pkl
-*.png
-*.npy
-*.json
-*.yaml
+# *.pdf
+# *.txt
+# *.pkl
+# *.png
+# *.npy
+# *.json
+# *.yaml
 
 
 pred_figs/

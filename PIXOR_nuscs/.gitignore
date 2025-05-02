@@ -1,7 +1,7 @@
 # add by Yang Lou
 *.pyc
 *.npy
-*.txt
+# *.txt
 
 data/
 .history/
